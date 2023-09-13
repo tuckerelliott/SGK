@@ -45,9 +45,8 @@ main .carousel div.carousel-text {
   max-width: 1200px;
   margin: 0 auto;
   /* background-color: white; */
-  font-family: Playfair Display, times;
-  font-size: 35px;
-  font-style: italic;
+  font-family: open-sans;
+  font-size: 25px;
   min-height: 80px;
   padding: 0 28px;
 }
