@@ -1,4 +1,22 @@
 @font-face {
+  font-family: "OpenSans-ExtraBold";
+  font-weight: 800;
+  src: url("https://d1wobvyg76ybs0.cloudfront.net/sgk-rebr-prod/static_compiled/fonts/OpenSans-ExtraBold.woff") format('woff');
+}
+
+@font-face {
+  font-family: "OpenSans";
+  font-weight: 800;
+  src: url("https://d1wobvyg76ybs0.cloudfront.net/sgk-rebr-prod/static_compiled/fonts/OpenSans.woff") format('woff');
+}
+
+@font-face {
+  font-family: "OpenSans-Bold";
+  font-weight: 800;
+  src: url("https://d1wobvyg76ybs0.cloudfront.net/sgk-rebr-prod/static_compiled/fonts/OpenSans-Bold.woff") format('woff');
+}
+
+@font-face {
     font-family: roboto;
     font-style: normal;
     font-weight: 700;
