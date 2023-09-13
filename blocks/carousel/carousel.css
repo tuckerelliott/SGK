@@ -11,6 +11,7 @@ main .carousel {
   margin: auto;
   background-color: black;
   color: white;
+  text-align: center;
 }
 
 main .carousel picture {
