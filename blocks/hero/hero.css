@@ -20,6 +20,7 @@ main .hero h1 {
 /*  margin-right: auto; */
   color: black;
   font-family: "open-sans";
+  padding-top: 200px;
 }
 
 main .hero picture {
