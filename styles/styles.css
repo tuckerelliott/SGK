@@ -23,7 +23,7 @@
   --text-color: #000;
 
   /* fonts */
-  --body-font-family: roboto, roboto-fallback;
+  --body-font-family: open-sans;
   --heading-font-family: var(--body-font-family);
   --fixed-font-family: 'Roboto Mono', menlo, consolas, 'Liberation Mono', monospace;
 
@@ -46,7 +46,7 @@
 }
 
 @font-face {
-  font-family: roboto-fallback;
+  font-family: open-sans;
   size-adjust: 100.06%;
   ascent-override: 95%;
   src: local('Arial');
