@@ -1,5 +1,11 @@
 /* block specific CSS goes here */
 
+@font-face {
+  font-family: "OpenSans-ExtraBold";
+  font-weight: 800;
+  src: url("https://d1wobvyg76ybs0.cloudfront.net/sgk-rebr-prod/static_compiled/fonts/OpenSans-Regular.woff") format('woff');
+}
+
 main .hero-container > div {
   max-width: unset;
 }
@@ -18,10 +24,8 @@ main .hero h1 {
   /* max-width: 1200px;
   margin-left: auto;
   margin-right: auto; */
-  color: black;
   font-family: "OpenSans-ExtraBold";
-  font-weight: 800;
-  src: url("https://d1wobvyg76ybs0.cloudfront.net/sgk-rebr-prod/static_compiled/fonts/OpenSans-Regular.woff") format('woff');
+  color: black;
   padding-top: 200px;
   text-align: center;
 }
