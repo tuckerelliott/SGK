@@ -23,8 +23,8 @@
   --text-color: #000;
 
   /* fonts */
-  --body-font-family: open-sans;
-  --heading-font-family: var(--body-font-family);
+  --body-font-family: 'OpenSans';
+  --heading-font-family: 'OpenSans-ExtraBold';
   --fixed-font-family: 'Roboto Mono', menlo, consolas, 'Liberation Mono', monospace;
 
   /* body sizes */
