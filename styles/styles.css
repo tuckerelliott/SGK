@@ -83,10 +83,20 @@ header {
   height: var(--nav-height);
 }
 
-h1, h2, h3,
+h2, h3,
 h4, h5, h6 {
   font-family: var(--heading-font-family);
   font-weight: 600;
+  line-height: 1.25;
+  margin-top: 1em;
+  margin-bottom: .5em;
+  scroll-margin: calc(var(--nav-height) + 1em);
+}
+
+h1 {
+  font-family: "OpenSans-ExtraBold";
+  font-weight: 800;
+  src: url("https://d1wobvyg76ybs0.cloudfront.net/sgk-rebr-prod/static_compiled/fonts/OpenSans-Regular.woff") format('woff');
   line-height: 1.25;
   margin-top: 1em;
   margin-bottom: .5em;
