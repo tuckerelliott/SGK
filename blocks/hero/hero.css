@@ -15,12 +15,13 @@ main .hero {
 }
 
 main .hero h1 {
-  max-width: 1200px;
+  /* max-width: 1200px;
   margin-left: auto;
-/*  margin-right: auto; */
+  margin-right: auto; */
   color: black;
   font-family: "open-sans";
   padding-top: 200px;
+  text-align: center;
 }
 
 main .hero picture {
